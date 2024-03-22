@@ -8,9 +8,9 @@ The upside to this way of doing things is it would be easy to add new gaits and 
 
 This code is also based on a hexapod with a more circular base, where each side of the hexagon is equal. Our hexapod sort of has a front, while his does not.
 
-'''
+```
     Ours                    His
    _____                   ___
   |  -> | front           /   \
   |_____|                 \___/
-  '''
+```
